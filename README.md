@@ -1,4 +1,4 @@
-<h1 align="center">Hello My Friend I'm pwd-whoami</h1>
+<h1 align="center">Hello My Friend</h1>
 <h3 align="center">I'm just a normal guy who knows the basics of all those tools and programming languages.</h3>
 
 <h3 align="left">Skills</h3>
