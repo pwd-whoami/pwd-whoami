@@ -7,7 +7,7 @@
 
   <br /><br />
 
-  <!-- Linux Terminal Window with Aligned Tux Fastfetch -->
+  <!-- Linux Terminal Window with Exact 16-Line Tux -->
   <table>
     <tr>
       <td>
@@ -27,7 +27,7 @@
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMP|    .'
-     `-'        `--'
+     `-'        `--' hjm
 
 <font color="#00FF66">user@arch-linux</font>:<font color="#55ffff">~</font>$ tree ./skills/
 ├── <b>languages/</b>
