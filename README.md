@@ -5,18 +5,18 @@
     <tr>
       <td>
         <pre><code><font color="#00FF66">user@linux</font>:<font color="#55ffff">~</font>$ cat intro.txt
-       _nnnn_        <b>Hello My Friend 👋</b>
-      dGGGGMMb       ----------------------------------------------------
-     @p~qp~~qMb      I'm just a normal guy who knows the basics of 
-     M|@||@) M|      all those tools and programming languages.
-     @,----.JM|      ----------------------------------------------------
-    JS^\__/  qKL     <b>OS:</b> Linux x86_64
-   dZP        qKRb   <b>Shell:</b> Bash / Zsh
-  dZP          qKKb  <b>Status:</b> Active & Learning
- fZP            SMMb
- HZM            MMMM
- FqM            MMMM
- __| ".        |\dS"qML
+        _nnnn_        <b>Hello My Friend 👋</b>
+       dGGGGMMb       ----------------------------------------------------
+      @p~qp~~qMb      I'm just a normal guy who knows the basics of 
+      M|@||@) M|      all those tools and programming languages.
+      @,----.JM|      ----------------------------------------------------
+     JS^\__/  qKL     <b>OS:</b> Linux x86_64
+    dZP        qKRb   <b>Shell:</b> Bash / Zsh
+   dZP          qKKb  <b>Status:</b> Active & Learning
+  fZP            SMMb
+  HZM            MMMM
+  FqM            MMMM
+__| ".        |\dS"qML
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMP|    .'
