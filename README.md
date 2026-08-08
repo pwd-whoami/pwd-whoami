@@ -1,17 +1,18 @@
 <div align="center">
 
-  <!-- Minimal ASCII Header -->
-
-
-  <pre><code><font color="#00FF66">user@linux</font>:<font color="#55ffff">~</font>$ cat tux.txt
-       _nnnn_
-      dGGGGMMb
-     @p~qp~~qMb
-     M|@||@) M|
-     @,----.JM|
-    JS^\__/  qKL
-   dZP        qKRb
-  dZP          qKKb
+  <!-- Linux Terminal Box with ASCII Tux and Greeting -->
+  <table>
+    <tr>
+      <td>
+        <pre><code><font color="#00FF66">user@linux</font>:<font color="#55ffff">~</font>$ cat intro.txt
+       _nnnn_        <b>Hello My Friend 👋</b>
+      dGGGGMMb       ----------------------------------------------------
+     @p~qp~~qMb      I'm just a normal guy who knows the basics of 
+     M|@||@) M|      all those tools and programming languages.
+     @,----.JM|      ----------------------------------------------------
+    JS^\__/  qKL     <b>OS:</b> Linux x86_64
+   dZP        qKRb   <b>Shell:</b> Bash / Zsh
+  dZP          qKKb  <b>Status:</b> Active & Learning
  fZP            SMMb
  HZM            MMMM
  FqM            MMMM
@@ -20,14 +21,16 @@
 _)      \.___.,|     .'
 \____   )MMMMMP|    .'
      `-'        `--' hjm</code></pre>
-
+      </td>
+    </tr>
+  </table>
 
   <br />
 
-  <!-- Simple Shell Section Title -->
+  <!-- Languages and Tools Header -->
   <p><code>$ ls -la ./languages-and-tools</code></p>
 
-  <!-- Clean, Dark-Mode Terminal Badges -->
+  <!-- Modern Dark Terminal Badges -->
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" alt="Bash" />
@@ -43,10 +46,12 @@ _)      \.___.,|     .'
     </a>
   </p>
 
-  <!-- Security & Privacy Status Bar -->
+  <br />
+
+  <!-- Security Footer Status -->
   <p>
-    <img src="https://img.shields.io/badge/Security-HTTPS_Only-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Security" />
-    <img src="https://img.shields.io/badge/Tracking-Zero_Analytics-121011?style=flat-square&logo=privacybadger&logoColor=00FF66" alt="Privacy" />
+    <img src="https://img.shields.io/badge/TTY-1_ACTIVE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Active" />
+    <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Encrypted" />
   </p>
 
 </div>
