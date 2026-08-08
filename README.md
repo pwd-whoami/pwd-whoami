@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td>
-        <pre><code><font color="#00FF66">user@linux</font>:<font color="#55ffff">~</font>$ cat intro.txt
+        <pre><code><font color="#333333">whoami@404</font>:<font color="#55ffff">~</font>$ cat intro.txt
         _nnnn_        <b>Hello My Friend 👋</b>
        dGGGGMMb       ----------------------------------------------------
       @p~qp~~qMb      I'm just a normal guy who knows the basics of 
@@ -27,10 +27,10 @@ _)      \.___.,|     .'
 
   <br />
 
-  <!-- Languages and Tools Header -->
+
   <p><code>$ ls -la ./languages-and-tools</code></p>
 
-  <!-- Modern Dark Terminal Badges -->
+ 
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" alt="Bash" />
@@ -48,7 +48,7 @@ _)      \.___.,|     .'
 
   <br />
 
-  <!-- Security Footer Status -->
+
   <p>
     <img src="https://img.shields.io/badge/TTY-1_ACTIVE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Active" />
     <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Encrypted" />
