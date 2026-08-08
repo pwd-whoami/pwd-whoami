@@ -51,8 +51,8 @@ _)      \.___.,|     .'
 
 
   <p>
-    <img src="https://img.shields.io/badge/TTY-1_ACTIVE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Active" />
-    <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Encrypted" />
+    <img src="https://img.shields.io/badge/TTY-0_OFFILINE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Active" />
+    <img src="https://img.shields.io/badge/SECURITY-IS-JUST-?-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Encrypted" />
   </p>
 
 </div>
