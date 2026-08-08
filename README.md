@@ -50,9 +50,9 @@ _)      \.___.,|     .'
   <br />
 
 
-  <p>
-    <img src="https://img.shields.io/badge/TTY-0_OFFILINE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Active" />
-    <img src="https://img.shields.io/badge/SECURITY-IS-JUST-?-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Encrypted" />
+<p>
+    <img src="https://img.shields.io/badge/TTY-OFFLINE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Offline" />
+    <img src="https://img.shields.io/badge/SECURITY-IF_JUST_%3F-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Security If Just ?" />
   </p>
 
 </div>
