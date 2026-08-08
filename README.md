@@ -2,22 +2,32 @@
 
   <!-- Dynamic Typing Linux Shell Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vcenter=true&width=550&lines=user%40linux-kernel%3A~%24+sudo+systemctl+start+profile.service;user%40linux-kernel%3A~%24+cat+%2Fetc%2Fmotd;Hello+My+Friend!+Welcome+to+my+shell." alt="Linux Shell Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vcenter=true&width=550&lines=user%40arch-linux%3A~%24+sudo+systemctl+start+profile.service;user%40arch-linux%3A~%24+cat+%2Fetc%2Fmotd;Hello+My+Friend!+Welcome+to+my+shell." alt="Linux Shell Header" />
   </a>
 
   <br /><br />
 
-  <!-- Linux Terminal Window / Neofetch Output -->
+  <!-- Linux Terminal Window with Aligned Tux Fastfetch -->
   <table>
     <tr>
       <td>
         <pre><code><font color="#00FF66">user@arch-linux</font>:<font color="#55ffff">~</font>$ fastfetch
-          <font color="#00FF66">.---.</font>          <b>OS:</b> Arch Linux x86_64
-         <font color="#00FF66">/     \</font>         <b>Kernel:</b> 6.10.3-arch1-1
-        <font color="#00FF66">|  (o)  |</font>        <b>Uptime:</b> 24/7 Learning & Building
-        <font color="#00FF66">|   <font color="#ffcc00">^</font>   |</font>        <b>Shell:</b> zsh 5.9
-         <font color="#00FF66">\  <font color="#ff0055">_</font>  /</font>         <b>Bio:</b> Just a normal guy who knows the basics
-          <font color="#00FF66">`---'</font>          <b>Status:</b> [Online] Process running...
+       _nnnn_
+      dGGGGMMb        <b>OS:</b> Arch Linux x86_64
+     @p~qp~~qMb       <b>Kernel:</b> Linux 6.10.3-arch1-1
+     M|@||@) M|       <b>Shell:</b> zsh 5.9 / bash 5.2
+     @,----.JM|       <b>Uptime:</b> 24/7 Learning & Building
+    JS^\__/  qKL      <b>Bio:</b> Just a normal guy who knows the basics.
+   dZP        qKRb    <b>Status:</b> [Online] Process running...
+  dZP          qKKb
+ fZP            SMMb  <b>Languages & Stack:</b>
+ HZM            MMMM  ├── C / C++ / Bash
+ FqM            MMMM  ├── Linux / Git / DevOps
+ __| ".        |\dS"qML└── PHP / JS / Postgres / Supabase
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|    .'
+     `-'        `--'
 
 <font color="#00FF66">user@arch-linux</font>:<font color="#55ffff">~</font>$ tree ./skills/
 ├── <b>languages/</b>
@@ -55,9 +65,9 @@
 
   <!-- Terminal Status Footer -->
   <p>
-    <img src="https://img.shields.io/badge/TTY-1_ACTIVE-121011?style=flat-square&logo=linux&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/SSH-PORT_22_OPEN-121011?style=flat-square&logo=openssh&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/EXIT_CODE-0_SUCCESS-121011?style=flat-square&logo=checkmarx&logoColor=00FF66" />
+    <img src="https://img.shields.io/badge/TTY-1_ACTIVE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Active" />
+    <img src="https://img.shields.io/badge/SSH-PORT_22_OPEN-121011?style=flat-square&logo=openssh&logoColor=00FF66" alt="SSH Open" />
+    <img src="https://img.shields.io/badge/EXIT_CODE-0_SUCCESS-121011?style=flat-square&logo=checkmarx&logoColor=00FF66" alt="Exit Code 0" />
   </p>
 
 </div>
