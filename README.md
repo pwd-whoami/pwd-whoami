@@ -1,24 +1,26 @@
 <div align="center">
 
   <!-- Minimal ASCII Header -->
-  <pre><code>
-   _nnnn_        <b>Hello My Friend 👋</b>
-  dGGGGMMb       ----------------------------------------------------
- @p~qp~~qMb      I'm just a normal guy who knows the basics of 
- M|@||@) M|      all those tools and programming languages.
- @,----.JM|      ----------------------------------------------------
-JS^\__/  qKL     <b>OS:</b> Linux x86_64 | <b>Shell:</b> Bash
-dZP        qKRb  <b>Focus:</b> Building clean & secure web applications
-dZP          qKKb
-fZP            SMMb
-HZM            MMMM
-FqM            MMMM
-__| ".        |\dS"qML
-|    `.       | `' \Zq
+
+
+  <pre><code><font color="#00FF66">user@linux</font>:<font color="#55ffff">~</font>$ cat tux.txt
+       _nnnn_
+      dGGGGMMb
+     @p~qp~~qMb
+     M|@||@) M|
+     @,----.JM|
+    JS^\__/  qKL
+   dZP        qKRb
+  dZP          qKKb
+ fZP            SMMb
+ HZM            MMMM
+ FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMP|    .'
-     `-'        `--'
-  </code></pre>
+     `-'        `--' hjm</code></pre>
+
 
   <br />
 
