@@ -5,7 +5,7 @@
     <tr>
       <td>
         <pre><code><font color="#333333">whoami@404</font>:<font color="#55ffff">~</font>$ cat intro.txt
-        _nnnn_        <b>Hello My Friend 👋</b>
+        _nnnn_        <b> WHOAMI </b>
        dGGGGMMb       ----------------------------------------------------
       @p~qp~~qMb      I'm just a normal guy who knows the basics of 
       M|@||@) M|      all those tools and programming languages.
@@ -20,7 +20,7 @@ __| ".        |\dS"qML
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMP|    .'
-     `-'        `--' hjm</code></pre>
+     `-'        `--' </code></pre>
       </td>
     </tr>
   </table>
