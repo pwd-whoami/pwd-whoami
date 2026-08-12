@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Profile Visitor Counter (Automatically increments on each visit) -->
+  <!-- Profile Visitor Counter matching your style -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
 
   <br />
@@ -13,7 +13,7 @@
       <td>
         <pre><code><font color="#A9A9A9">whoami@404</font>:<font color="#55ffff">~</font>$ cat intro.txt
 ----------------------------------------------------
-<b> MVP (Minimal Viable Profile) </b>
+<b> Hello I'm Jervs </b>
 ----------------------------------------------------
 I'm just a normal guy who knows the basics of 
 all those tools and programming languages.
