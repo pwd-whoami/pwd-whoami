@@ -1,18 +1,19 @@
 <div align="center">
 
+  <!-- Real-time Profile Visitor Counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
 
   <br />
 
-
+  <!-- Terminal MVP Box -->
   <table>
     <tr>
       <td>
         <pre><code><font color="#A9A9A9">whoami@404</font>:<font color="#55ffff">~</font>$ cat intro.txt
 ----------------------------------------------------
-<b> Hello I'm Jervs </b>
+<b> Hello I'm 0x-vin </b>
 ----------------------------------------------------
 I'm just a normal guy who knows the basics of 
 all those tools and programming languages.
@@ -26,7 +27,7 @@ all those tools and programming languages.
 
   <p><code>$ ls -la ./tools</code></p>
 
-
+  <!-- Essential Tech Stack: Bash, C, C++, Linux -->
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" alt="Bash" />
