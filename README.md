@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td>
-        <pre><code><font color="#A9A9A9">whoami@404</font>:<font color="#55ffff">~</font>$ cat intro.txt
+        <pre><code><font color="#A9A9A9">whoami@404</font>:<font color="#55ffff">~</font>$ cat whoami.txt
 ----------------------------------------------------
 <b> Hello I'm zaii </b>
 ----------------------------------------------------
