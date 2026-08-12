@@ -52,7 +52,7 @@ _)      \.___.,|     .'
 
 <p>
     <img src="https://img.shields.io/badge/TTY-OFFLINE-121011?style=flat-square&logo=linux&logoColor=00FF66" alt="TTY Offline" />
-    <img src="https://img.shields.io/badge/SECURITY-IF_JUST_%3F-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Security If Just ?" />
+    <img src="https://img.shields.io/badge/SECURITY-IF_JUST_%3F-121011?style=flat-square&logo=shield&logoColor=00FF66" alt="Security Is Just Illusion?" />
   </p>
 
 </div>
