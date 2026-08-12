@@ -2,7 +2,6 @@
 
   <br />
 
-  <!-- Terminal MVP Box -->
   <table>
     <tr>
       <td>
@@ -22,7 +21,6 @@ all those tools and programming languages.
 
   <p><code>$ ls -la ./tools</code></p>
 
-  <!-- Essential Tech Stack: Bash, C, C++, Linux -->
   <p>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" alt="Bash" />
