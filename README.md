@@ -1,10 +1,5 @@
 <div align="center">
 
-  <!-- Real-time Profile Visitor Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
-
   <br />
 
   <!-- Terminal MVP Box -->
