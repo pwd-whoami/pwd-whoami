@@ -13,7 +13,7 @@
       <td>
         <pre><code><font color="#A9A9A9">whoami@404</font>:<font color="#55ffff">~</font>$ cat intro.txt
 ----------------------------------------------------
-<b> Hello I'm 0x-vin </b>
+<b> Hello I'm zaii </b>
 ----------------------------------------------------
 I'm just a normal guy who knows the basics of 
 all those tools and programming languages.
