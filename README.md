@@ -9,8 +9,7 @@
 ----------------------------------------------------
 <b> Hello I'm zaii </b>
 ----------------------------------------------------
-I'm just a normal guy who knows the basics of 
-all those tools and programming languages.
+I'm just a normal guy and cybersecurity enthusiast who knows some basic tools/Programming.
 ----------------------------------------------------
 <font color="#A9A9A9">system@404</font>:<font color="#55ffff">~</font>$ _</code></pre>
       </td>
